@@ -4,15 +4,35 @@ The audio should be in clear Boston English Accent. Any gender can be employed t
 
 
 Emily: Good afternoon. TBH Network Solutions
+
+
 Fred: Yeah, hi. My system is down and I need to speak with a technician.
+
+
 Emily: Oh, okay. Let me gather some information and see if we can help. What is your first name?
+
+
 Fred: Fred.
+
+
 Emily: And your last name; would you spell it for me please?
+
+
 Fred: Sure. It’s C-H-A-M-B-E-R-S, Chambers.
+
+
 Emily: Okay. And your company name?
+
+
 Fred: I’m with GoldStar Environmental.
+
+
 Emily: GoldStar Environmental?
+
+
 Fred: Yes ma’am.
+
+
 Emily: Okay. And your callback number?
 Fred: 610-265-1715.
 Emily: That’s 610-265-1715?
